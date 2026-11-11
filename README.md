@@ -64,6 +64,12 @@ Open a session, type what you want, and send it. Claude Code runs it on your com
 
 Your computer has to be on and connected for a request to run. You can send the request from somewhere else.
 
+### Talk to Agny on the Mac
+
+Hold a key, ask out loud, and Agny reads the answer back while it highlights each line. If the answer has a visual explanation, it plays in its own window.
+
+[![Agny on the Mac](demo/07-agny-voice-en.png)](demo/07-agny-voice-en.mp4)
+
 ## Sessions
 
 Each request lives in a session. A session is in one of three states:
@@ -160,3 +166,4 @@ The short videos used on the Agnes site are in [`demo/`](demo/). Each one has an
 | Plans | [`04-plans-en`](demo/04-plans-en.mp4) |
 | Live terminal with Orca | [`05-orca-live-terminal-en`](demo/05-orca-live-terminal-en.mp4) |
 | Link a session to an open terminal | [`06-orca-existing-session-en`](demo/06-orca-existing-session-en.mp4) |
+| Agny, voice on the Mac | [`07-agny-voice-en`](demo/07-agny-voice-en.mp4) |
