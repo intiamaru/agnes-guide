@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.900
+Flow: why a request stays queued, step by step.
+
+2
+00:00:09.900 --> 00:00:18.400
+States: the life of a request, from queue to finish.
+
+3
+00:00:18.400 --> 00:00:27.000
+Impact: what breaks if you change one function.
+
+4
+00:00:27.000 --> 00:00:37.800
+Skyline: read a file by its rules, not line by line.

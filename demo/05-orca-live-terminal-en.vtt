@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.700
+An Agnes session that runs in Orca.
+
+2
+00:00:04.700 --> 00:00:09.800
+You type the request in the chat.
+
+3
+00:00:09.800 --> 00:00:14.000
+Agnes opens a new Orca terminal with Claude Code.
+
+4
+00:00:14.000 --> 00:00:20.000
+Claude Code runs it on your computer.
+
+5
+00:00:20.000 --> 00:00:29.800
+The reply comes back to the chat.
