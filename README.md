@@ -82,6 +82,12 @@ By default Claude Code works in the background. To watch each session in its own
 
 Download Orca from onorca.dev. The Homebrew package named `orca` is a different program.
 
+### Use a terminal you already have open
+
+[![Link a session to an open terminal](demo/06-orca-existing-session-en.png)](demo/06-orca-existing-session-en.mp4)
+
+You can also link a session to a Claude Code terminal that is already open in Orca. In the session, use **link** and pick the terminal. What you ask from the chat then runs in that terminal, and the summary comes back to the chat.
+
 ## Understand code with views
 
 [![Code views](demo/02-understands-code-en.png)](demo/02-understands-code-en.mp4)
@@ -153,3 +159,4 @@ The short videos used on the Agnes site are in [`demo/`](demo/). Each one has an
 | Connect with one command | [`03-connect-one-command-en`](demo/03-connect-one-command-en.mp4) |
 | Plans | [`04-plans-en`](demo/04-plans-en.mp4) |
 | Live terminal with Orca | [`05-orca-live-terminal-en`](demo/05-orca-live-terminal-en.mp4) |
+| Link a session to an open terminal | [`06-orca-existing-session-en`](demo/06-orca-existing-session-en.mp4) |
