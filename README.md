@@ -176,3 +176,4 @@ The short videos used on the Agnes site are in [`demo/`](demo/). Each one has an
 | Link a session to an open terminal | [`06-orca-existing-session-en`](demo/06-orca-existing-session-en.mp4) |
 | Agny, voice on the Mac | [`07-agny-voice-en`](demo/07-agny-voice-en.mp4) |
 | Agny, voice on the Mac, with the spoken request (audio) | [`07-agny-voice-audio-en`](demo/07-agny-voice-audio-en.mp4) |
+| Android app with a narrated cinematic | [`08-mobile-cinematic-en`](demo/08-mobile-cinematic-en.mp4) |
