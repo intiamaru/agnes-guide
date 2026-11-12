@@ -70,6 +70,12 @@ Hold a key, ask out loud, and Agny reads the answer back while it highlights eac
 
 [![Agny on the Mac](demo/07-agny-voice-en.png)](demo/07-agny-voice-en.mp4)
 
+### Ask from your phone
+
+Open a session in the Android app and ask about your code. When the answer explains something visually, the app plays it as a narrated cinematic: the pieces appear, the code that matters lights up, and the voice walks you through it.
+
+[![Agnes on Android](demo/08-mobile-cinematic-en.png)](demo/08-mobile-cinematic-en.mp4)
+
 ## Sessions
 
 Each request lives in a session. A session is in one of three states:
