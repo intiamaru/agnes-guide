@@ -2,6 +2,8 @@
 
 Agnes lets you ask Claude Code for things from your phone, the web or your voice, and have them run on your own computer. You follow each request as a session and get the reply back where you asked.
 
+Agnes started from the idea of an agent that keeps working until a hard problem is solved (the Ralph Loop in Claude Code). It adds one thing: a human in the loop whenever it's really needed. So the agent goes and finds you, wherever you are.
+
 This guide covers how to use Agnes. Start at **[agnes.fractalcode.xyz](https://agnes.fractalcode.xyz)**.
 
 - [What you need](#what-you-need)
@@ -162,7 +164,7 @@ Agnes is available in English and Spanish. Switch with the **EN / ES** buttons. 
 
 ## Demo videos
 
-The short videos used on the Agnes site are in [`demo/`](demo/). Each one has an `.mp4`, a `.webm`, a `.png` poster and `.vtt` captions. They have no audio, and the captions are burned in.
+The short videos used on the Agnes site are in [`demo/`](demo/). Each one has an `.mp4`, a `.webm`, a `.png` poster and `.vtt` captions. They have no audio, except where noted, and the captions are burned in.
 
 | Video | File |
 |---|---|
@@ -173,3 +175,4 @@ The short videos used on the Agnes site are in [`demo/`](demo/). Each one has an
 | Live terminal with Orca | [`05-orca-live-terminal-en`](demo/05-orca-live-terminal-en.mp4) |
 | Link a session to an open terminal | [`06-orca-existing-session-en`](demo/06-orca-existing-session-en.mp4) |
 | Agny, voice on the Mac | [`07-agny-voice-en`](demo/07-agny-voice-en.mp4) |
+| Agny, voice on the Mac, with the spoken request (audio) | [`07-agny-voice-audio-en`](demo/07-agny-voice-audio-en.mp4) |
